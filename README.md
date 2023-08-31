@@ -2,4 +2,6 @@
 
 Operating Systems Odd 2023/2024
 
-[LOG](TXT/mylog.txt) || [GitHub](https://github.com/aldenluthfi/os232)
+| Log | Github |
+|-----|--------|
+|[TXT/mylog.txt](TXT/mylog.txt)|[https://github.com/aldenluthfi/os232](https://github.com/aldenluthfi/os232)|
