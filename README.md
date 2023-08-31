@@ -1,4 +1,4 @@
-# Alden Luthfi's OS232
+# os232
 
 Operating Systems Odd 2023/2024
 
