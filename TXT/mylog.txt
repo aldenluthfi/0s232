@@ -1,5 +1,7 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W00 100 L02 Attended class on Tuesday
 ZCZC W00 30 L03 Made Github repo and other stuff
 ZCZC W00 30 L04 Made the Github Page
+ZCZC W00 100 L02 Attended class on Thursday
