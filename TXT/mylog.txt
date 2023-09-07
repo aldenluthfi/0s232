@@ -8,3 +8,5 @@ ZCZC W00 100 L02 Attended class on Thursday
 ZCZC W00 120 L05 Studying for Quiz
 ZCZC W00 120 L09 Reading Assignment
 ZCZC W00 60 L21 Installed archlinux to familiarize with linux
+ZCZC W01 100 L02 Attended class on Tuesday
+ZCZC W01 100 L02 Attended class on Thursday
