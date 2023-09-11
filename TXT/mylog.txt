@@ -10,3 +10,6 @@ ZCZC W00 120 L09 Reading Assignment
 ZCZC W00 60 L21 Installed archlinux to familiarize with linux
 ZCZC W01 100 L02 Attended class on Tuesday
 ZCZC W01 100 L02 Attended class on Thursday
+ZCZC W01 120 L05 Studying for Quiz
+ZCZC W01 240 L09 Tinkering with debian and stuff (this was done over the course of two days)
+ZCZC W01 60 L22 Customized my terminal
