@@ -13,3 +13,9 @@ ZCZC W01 100 L02 Attended class on Thursday
 ZCZC W01 120 L05 Studying for Quiz
 ZCZC W01 240 L09 Tinkering with debian and stuff (this was done over the course of two days)
 ZCZC W01 60 L22 Customized my terminal
+ZCZC W02 100 L02 Attended class on Tuesday
+ZCZC W02 100 L02 Attended class on Thursday
+ZCZC W02 120 L05 Studying for Quiz
+ZCZC W02 240 L09 Assignment stuff
+ZCZC W02 60 L22 Customized my terminal
+ZCZC W02 60 L24 Made the pop quiz
