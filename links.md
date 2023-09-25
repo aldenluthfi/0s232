@@ -48,5 +48,8 @@ Pengantar Editor VI. Ini menjelaskan berbagai mode dan banyak perintah yang dimi
 * [What is an Operating System as Fast As Possible](https://www.youtube.com/watch?v=pVzRTmdd9j0) ---
 Explaining Operating System in a simple way. Very helpful for beginners.
 
+* [3 Hours C Course](https://www.youtube.com/watch?v=KJgsSFOSQv0&ab_channel=freeCodeCamp.org) ---
+This course will give you a full introduction into all of the core concepts in the C programming language.
+
 <br>
 <hr>
