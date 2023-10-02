@@ -26,3 +26,10 @@ ZCZC W03 240 L09 Assignment stuff
 ZCZC W03 30 L22 Customized my terminal
 ZCZC W03 60 L24 Made the pop quiz
 ZCZC W03 10 L09 Assignment final changes
+ZCZC W04 100 L02 Attended class on Tuesday
+ZCZC W04 100 L02 Attended class on Thursday
+ZCZC W04 120 L00 Studying in general
+ZCZC W04 240 L09 Assignment stuff
+ZCZC W04 30 L22 Customized linux desktop
+ZCZC W04 60 L24 Made the pop quiz
+ZCZC W04 120 L09 Assignment and doing some coding in C
