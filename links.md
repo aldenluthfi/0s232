@@ -51,5 +51,7 @@ Explaining Operating System in a simple way. Very helpful for beginners.
 * [3 Hours C Course](https://www.youtube.com/watch?v=KJgsSFOSQv0&ab_channel=freeCodeCamp.org) ---
 This course will give you a full introduction into all of the core concepts in the C programming language.
 
+* [Bash Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet) ---
+
 <br>
 <hr>
