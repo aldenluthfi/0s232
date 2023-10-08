@@ -53,5 +53,7 @@ This course will give you a full introduction into all of the core concepts in t
 
 * [Bash Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet) ---
 
+* [C Pointers]() ---
+A helpful resource to learn about C pointers
 <br>
 <hr>
