@@ -55,5 +55,8 @@ This course will give you a full introduction into all of the core concepts in t
 
 * [C Pointers](https://www.youtube.com/watch?v=MIL2BK02X8A) ---
 A helpful resource to learn about C pointers
+
+* [C Fork](https://www.youtube.com/watch?v=cex9XrZCU14&ab_channel=CodeVault) ---
+C forks, I don't get it
 <br>
 <hr>

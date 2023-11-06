@@ -11,3 +11,6 @@ ZCZC W04 raissaputi
 ZCZC W05 astrialyanda
 ZCZC W05 CyberSleeper
 ZCZC W05 fathonidf
+ZCZC W06 fathonidf
+ZCZC W06 raissaputi
+ZCZC W06 fadhilmuh
