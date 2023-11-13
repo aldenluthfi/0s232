@@ -58,5 +58,8 @@ A helpful resource to learn about C pointers
 
 * [C Fork](https://www.youtube.com/watch?v=cex9XrZCU14&ab_channel=CodeVault) ---
 C forks, I don't get it
+
+* [LFS](https://www.youtube.com/watch?v=QlzoegSuIzg) ---
+Linux from scratch, it's getting real!
 <br>
 <hr>
