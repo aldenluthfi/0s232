@@ -54,3 +54,10 @@ ZCZC W07 240 L09 Assignment stuff
 ZCZC W07 30 L01 rechecked scele
 ZCZC W07 60 L24 Made the pop quiz
 ZCZC W07 120 L09 Assignment finishing
+ZCZC W08 100 L02 Attended class on Tuesday
+ZCZC W08 100 L02 Attended class on Thursday
+ZCZC W08 120 L00 Studying in general
+ZCZC W08 240 L09 Assignment stuff
+ZCZC W08 30 L01 rechecked scele
+ZCZC W08 60 L24 Made the pop quiz
+ZCZC W08 120 L09 Assignment finishing

@@ -61,5 +61,8 @@ C forks, I don't get it
 
 * [LFS](https://www.youtube.com/watch?v=QlzoegSuIzg) ---
 Linux from scratch, it's getting real!
+
+* [Another LFS](https://www.youtube.com/playlist?list=PLyc5xVO2uDsCQChvKRDhF-cvsguDfd-y2) ---
+Kernotex's Playlist
 <br>
 <hr>
